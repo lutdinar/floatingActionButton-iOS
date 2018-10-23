@@ -1,0 +1,6 @@
+framework module Pods_floatingActionBarExample {
+  umbrella header "Pods-floatingActionBarExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
